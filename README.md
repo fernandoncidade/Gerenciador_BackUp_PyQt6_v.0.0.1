@@ -163,7 +163,6 @@ INFORMAÇÕES EXTRAS A RESPEITO DAS LICENÇAS:
       stated in the documentation and source comments that the code may
       not be used to develop a RAR (WinRAR) compatible archiver.
   
-  
   Igor Pavlov
   ----
 
