@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação de gerenciamento de backup desenvolvida em Python usando PyQt6. A aplicação permite aos usuários selecionar diferentes métodos de compressão para arquivar pastas e arquivos. A interface gráfica é projetada para ser intuitiva e fácil de usar, oferecendo suporte para vários formatos de compressão e funcionalidades adicionais. São suportados 8 métodos de compressão e de descompressão.
 
-Observação: É necessário ter instalado no seu PC os seguintes programas: WinRAR, 7-Zip e Bandizip. Para utilizar a compressão do WinRAR é necessário ter comprado a versão paga. Pois se trata de um software proprietário.
+Observação: É necessário ter instalado no seu PC os seguintes programas: WinRAR e 7-Zip. Para utilizar a compressão do WinRAR é necessário ter comprado a versão paga. Pois se trata de um software proprietário.
 
 ## Visão Geral
 
@@ -165,22 +165,3 @@ INFORMAÇÕES EXTRAS A RESPEITO DAS LICENÇAS:
       
       Igor Pavlov
       ----
-
-
-
-
-  Política de Licença Bandizip
-  -------------------------
-
-	Ao comprar o Bandizip, você garante o uso do produto de acordo com a seguinte política de licença.
-
-
-	Licença Permanente
-		A licença do Bandizip não tem data de expiração; você pode usar o produto permanentemente após a compra ser feita.
-
-
-	Disponível em qualquer lugar para qualquer pessoa
-		A licença do Bandizip pode ser usada em qualquer lugar, incluindo residências e empresas, para fins comerciais e não comerciais.
-
-		Essa elegibilidade vale igualmente para a Standard Edition, que não exige a compra de uma licença.
-  ----
