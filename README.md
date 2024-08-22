@@ -162,8 +162,9 @@ INFORMAÇÕES EXTRAS A RESPEITO DAS LICENÇAS:
       or as a part of other software is permitted, provided that it is clearly
       stated in the documentation and source comments that the code may
       not be used to develop a RAR (WinRAR) compatible archiver.
-  Igor Pavlov
-  ----
+      
+      Igor Pavlov
+      ----
 
 
 
